@@ -1,2 +1,2 @@
 # coffee
-html and css practical
+html and css practical application
